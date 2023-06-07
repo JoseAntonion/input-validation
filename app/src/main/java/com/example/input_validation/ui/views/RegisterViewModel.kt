@@ -10,7 +10,7 @@ import com.example.input_validation.ui.model.RegisterUser
 
 class RegisterViewModel : ViewModel() {
     // TEST
-    val prueba = "hola prueba"
+    val prueba = "hola prueba desde dell"
 
     var regUser: RegisterUser = RegisterUser()
 
